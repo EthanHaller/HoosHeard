@@ -1,6 +1,6 @@
 [submodule "HoosHeardFrontend-Web"]
 	path = HoosHeardFrontend-Web
-	url = /Users/ethanhaller/personal-projects/HoosHeard/HoosHeardFrontend-Web
+	url = https://github.com/EthanHaller/HoosHeardFrontend-Web.git
 [submodule "HoosHeardBackend"]
 	path = HoosHeardBackend
-	url = /Users/ethanhaller/personal-projects/HoosHeard/HoosHeardBackend
+	url = https://github.com/EthanHaller/HoosHeardBackend.git
