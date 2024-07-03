@@ -1,0 +1,6 @@
+[submodule "HoosHeardFrontend-Web"]
+	path = HoosHeardFrontend-Web
+	url = /Users/ethanhaller/personal-projects/HoosHeard/HoosHeardFrontend-Web
+[submodule "HoosHeardBackend"]
+	path = HoosHeardBackend
+	url = /Users/ethanhaller/personal-projects/HoosHeard/HoosHeardBackend
