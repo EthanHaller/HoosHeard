@@ -2,7 +2,7 @@
 
 Welcome to HoosHeard, an anonymous social media platform designed to help your voice be heard! Every day, you are presented with a thought-provoking question to answer. The catch? You must submit your response before you can see all other anonymous responses. Join HoosHeard to share, connect, and be heard!
 
-[Watch the demo!](https://youtu.be/yUQ7SEzuSh8)
+[![Watch the demo](HoosHeardDemoThumbnail.png)](https://youtu.be/yUQ7SEzuSh8)
 
 ## Features
 
